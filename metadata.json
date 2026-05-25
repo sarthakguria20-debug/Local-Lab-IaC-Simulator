@@ -1,0 +1,6 @@
+{
+  "name": "Local Lab IaC Simulator",
+  "description": "An Infrastructure-as-Code (IaC) simulator that parses YAML and visualizes automated network configurations for local environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
